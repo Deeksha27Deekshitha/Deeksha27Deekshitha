@@ -1,17 +1,18 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://Deeksha27Deekshitha.io)
 <h1 align="center">Hi 👋, I'm Deekshitha V</h1>
-<h3 align="center">A Front-End Developer</h3>
+<h3 align="center">A Data Analyst</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
 <p align="center"> <img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/08/anime-blogging.gif?username=Deeksha27Deekshitha&label=Profile%20views&color=0e75b6&style=flat" alt="Deeksha27Deekshitha" /> </p>
 
 
-- 🔭 I’m currently working on **Web Technologies**
-
-- 🌱 I’m currently learning **javascript**
-
-- 💬 Ask me about **Android , MEARN**
+- 🔭 I’m currently working on
+- **Sql**
+- **Python[Pandas,Numpy,Matplotlib,Seaborn]**
+- **Excel**
+- **Power BI**
+- **Tableau**
 
 - 📫 How to reach me **deekshapoojary27a@gmail.com**
 
