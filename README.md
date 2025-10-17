@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/08/anime-blogging.gif?username=Deeksha27Deekshitha&label=Profile%20views&color=0e75b6&style=flat" alt="Deeksha27Deekshitha" /> </p>
 
 
-- 🔭 I’m currently working on
+- 🔭 I’m Skilled in
 - **Sql**
 - **Python[Pandas,Numpy,Matplotlib,Seaborn]**
 - **Excel**
